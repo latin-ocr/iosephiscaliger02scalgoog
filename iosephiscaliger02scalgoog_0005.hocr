@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iosephiscaliger02scalgoog/iosephiscaliger02scalgoog_0005.png"; bbox 0 0 2452 4186; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 194 266 2127 899">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 194 266 2127 899">
+     <span class='ocr_line' id='line_1_1' title="bbox 254 266 325 431; baseline 0 -48"><span class='ocrx_word' id='word_1_1' title='bbox 254 266 325 431; x_wconf 38' lang='grc' dir='ltr'><strong>ψ’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 194 584 2127 899; baseline -0.002 -72"><span class='ocrx_word' id='word_1_2' title='bbox 194 584 1055 829; x_wconf 58' lang='grc' dir='ltr'>ἸΟΞΕΡΗΙ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1152 658 2127 899; x_wconf 61' lang='lat' dir='ltr'><strong>§CALIGERI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 662 1032 1734 1183">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 662 1032 1734 1183">
+     <span class='ocr_line' id='line_1_3' title="bbox 662 1032 1734 1183; baseline 0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 662 1032 1254 1183; x_wconf 79' lang='lat' dir='ltr'><strong>POEMATA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1329 1069 1734 1183; x_wconf 83' lang='lat' dir='ltr'><strong>OMNIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 420 1447 2008 1517">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 420 1447 2008 1517">
+     <span class='ocr_line' id='line_1_4' title="bbox 420 1447 2008 1517; baseline 0.001 -4"><span class='ocrx_word' id='word_1_6' title='bbox 420 1449 576 1514; x_wconf 90' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 628 1447 1016 1515; x_wconf 86' lang='lat' dir='ltr'>MUSEIO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1078 1450 1396 1515; x_wconf 87' lang='lat' dir='ltr'>PETRI</span> <span class='ocrx_word' id='word_1_9' title='bbox 1454 1448 2008 1517; x_wconf 83' lang='lat' dir='ltr'><strong>SCRIVERII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 982 3083 1449 3150">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 982 3083 1449 3150">
+     <span class='ocr_line' id='line_1_5' title="bbox 982 3083 1449 3150; baseline 0 -3"><span class='ocrx_word' id='word_1_10' title='bbox 982 3083 1449 3150; x_wconf 87' lang='lat' dir='ltr'><strong>BEROLINI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1046 3464 1391 3505">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1046 3464 1391 3505">
+     <span class='ocr_line' id='line_1_6' title="bbox 1046 3464 1391 3505; baseline 0 -2"><span class='ocrx_word' id='word_1_11' title='bbox 1046 3464 1391 3505; x_wconf 66' lang='lat' dir='ltr'>CCCCCCCCC</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
